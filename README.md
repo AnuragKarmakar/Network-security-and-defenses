@@ -115,12 +115,3 @@ snort -A console -q -c /etc/snort/snort.conf -i eth0
 ## Project Reflection
 
 This project enhanced practical skills in network security, firewall management, and IDS tuning, emphasizing the importance of layered defense strategies.
-
-## Contributors
-
-* Anurag Karmakar
-* Asim Pathak
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
